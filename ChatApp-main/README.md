@@ -1,4 +1,4 @@
-# ChatApp
+# ChatAppp
 1-	Özet
 Java teknolojisinde JFrame form ara yüzü kullanarak soket programlama ile Chat uygulaması.
 
